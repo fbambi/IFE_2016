@@ -1,0 +1,26 @@
+body{
+	margin:0px;
+	padding :0px;
+}
+
+.wrap{
+	padding-top:200px;
+	padding-left:500px;
+	border:2px solid black;
+	height:300px;
+}
+
+.showDataText{
+	display:inline-block;
+}
+
+.onget{
+	color:red;
+	font-weight:bold;
+}
+
+.nothing{
+	color:black;
+	font-weight:normal;
+}
+

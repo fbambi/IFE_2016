@@ -1,0 +1,25 @@
+#tableWrap{
+	border:solid 1px black;
+	display:inline-block;
+	padding:10px;
+}
+
+
+table{
+	border-collapse:collapse;
+	border-spacing:0px;
+}
+
+thead{
+	background-color:#333;
+	color:white;
+}
+
+th{
+	margin:0px;
+	padding:0px;
+	width:130px;
+	height:40px;
+	border:solid 2px #C9C9C9;
+
+}

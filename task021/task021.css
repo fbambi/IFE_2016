@@ -1,0 +1,44 @@
+body{
+	margin:0px;
+	padding :0px;
+}
+
+.wrap{
+	padding-top:200px;
+	padding-left:500px;
+	border:2px solid black;
+	height:300px;
+}
+
+.tag_block{
+	background-color:#8AC8FF;
+	color:white;
+	font-family: sans-serif;
+	font-size:25px;
+	margin:10px 5px 10px 5px;
+	display:inline-block;
+	padding:5px;
+	border-radius:5px;
+
+}
+
+.on_mouse_over{
+	background-color:red;
+	color:white;
+	font-family: sans-serif;
+	font-size:25px;
+	margin:10px 5px 10px 5px;
+	display:inline-block;
+	padding:5px;
+	border-radius:5px;
+}
+
+#hobbyArea{
+	height:1500px;
+	clear:both;
+}
+
+#hobbyClick{
+	display:block;
+	margin:10px;
+}

@@ -1,0 +1,56 @@
+*{
+	margin:0px;
+}
+.total{
+	background:#eee;
+	padding:20px;
+	margin:10px;
+	position:fixed;
+	right:10px;
+	left:10px;
+	border:solid thin #999;
+}
+
+.logo{
+	background:white;
+	width:160px;
+	height:80px;
+	float:left;
+	padding:20px;
+	border:solid thin #999;		
+}
+
+.pic{
+	border:solid thin #999;
+	padding: 0px;
+	height:80px;
+}
+
+.introduce{
+	background:white;
+	
+	padding:20px;
+	position:absolute;
+	left:240px;
+	right:160px;
+	border:solid thin #999;
+}
+
+.private_introduce{
+	width:120px;
+	background: white;
+	border:solid thin #999;
+	float:right;	
+}
+
+.private_logo{
+	background:#eee;
+	width:80px;
+	height:80px;
+	margin:20px;
+}
+
+.header1{
+	font-size:20;
+}
+

@@ -1,0 +1,104 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+
+.wrap{
+	margin:50px;
+	margin-top:30px;
+	margin-bottom:10px;
+	padding:50px;
+	padding-bottom:40px;
+	border:solid 2px black;
+}
+.wrapWrap{
+	height:444px;
+}
+
+.inputBtn{
+	display:inline-block;
+	margin-right: 10px;
+}
+
+.btn{
+	display:inline-block;
+	margin-right: 5px;
+}
+
+#rightInput{
+	margin-right: 20px;
+}
+
+#number{
+	margin-top:20px;
+}
+
+.numberBtn{
+	background-color:red;
+	width:40px;
+	height:30px;
+	text-align:center;
+	color:white;
+	display:inline-block;
+	padding-top:8px;
+	margin:10px;
+	border:0px solid red;
+	border-radius: 5px;
+}
+
+.textStyle{
+	margin-top:10px;
+}
+
+label{
+	display: block;
+	margin-top:20px;
+}
+
+label span{
+	font-weight:bold;
+}
+
+#chart{
+	
+	margin-left: 50px;
+	margin-right:50px;
+	margin-bottom:100px;
+	background-color: white;
+	height:500px;
+
+}
+
+.chartDiv{
+	display:inline-block;
+	border:1px white bold;
+	margin-left:2px;
+	border-bottom: 1px black solid;
+}
+
+.divplshder{
+	height:500px;
+	display:inline-block;
+
+}
+
+.chartLine{
+	width:5px;
+	background-color: red;
+
+}
+
+.chartLineFocus{
+	width:5px;
+	background-color: black;
+
+}
+
+
+#re{
+	
+	position:relative;
+	left:1200;
+	bottom:10px;
+	font-size: 20px;
+}
